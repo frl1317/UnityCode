@@ -4,3 +4,8 @@ UnityCode/Logs
 UnityCode/Temp
 UnityCode/obj
 
+*.json
+*.csproj
+UnityCode/.DS_Store
+*.sln
+*.user
